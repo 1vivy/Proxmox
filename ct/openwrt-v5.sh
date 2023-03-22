@@ -345,7 +345,7 @@ export PCT_OPTIONS="
   -onboot 1
   -cores $CORE_COUNT
   -memory $RAM_SIZE
-  -ostype $ostype
+  -ostype $PCT_OSTYPE
   -unprivileged $CT_TYPE
 "
 #  $NS
